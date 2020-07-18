@@ -1,0 +1,2 @@
+# CurseOfDimensionality
+维度灾难-通过Python理解高维空间欧氏距离与余弦相似度失效
